@@ -6,5 +6,5 @@
 - Download and install Vagrant.
 
 ### Clone this repo
-- $ cd [repo]
+- $ cd {repo}
 - $ vagrant up
